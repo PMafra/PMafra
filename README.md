@@ -1,5 +1,5 @@
 # Hello :earth_americas:!!!
-## My name is Pedro and i'm a fullstack developer based in Rio de Janeiro.
+## My name is Pedro and i'm a fullstack developer based in Rio de Janeiro. I'm currently a student at Driven's amazing programming bootcamp :point_right: [<img align=center src="https://img.shields.io/badge/-DRIVEN-%23DA5386?style=for-the-badge" alt="Driven" />][driven]
 ### I'm a lifetime Student and Programmer - that’s the main thing you need to know
 
 <p align="left"> :arrow_right: You can find my projects here (portfolio in production!) :smile: </p>
@@ -8,6 +8,7 @@
 <p align="left"> :arrow_right: Pronouns: He/His :shark: </p>
 <p align="left"> :arrow_right: I’m currently looking for my first job. 🔭  </p>
 <p align="left"> :arrow_right: Love: working out, dogs, coding :blue_heart: </p>
+<p align="left"> :arrow_right: Education: finishing mechanical engineering at UFF :shield: </p>
 
 ### <p align="left">Technologies and tools</p>
 <p>
@@ -47,4 +48,4 @@
 
 [linkedin]: https://www.linkedin.com/in/pedro-mafra-de-rezende-marques-01371920a/
 [instagram]: https://www.instagram.com/pedro_mafra/
-
+[driven]: https://www.driven.com.br/?utm_source=search&utm_medium=google-ads&utm_campaign=branding&gclid=Cj0KCQiAys2MBhDOARIsAFf1D1cPfZuoGYPXcBUJmGZxSPCAl0gcedb9Ejd6_Kk37emmVASLlpc_xEUaAqsIEALw_wcB
