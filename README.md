@@ -32,6 +32,7 @@
 ### Say hi! :wave::
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -48,4 +49,5 @@
 
 [linkedin]: https://www.linkedin.com/in/pedro-mafra-de-rezende-marques-01371920a/
 [instagram]: https://www.instagram.com/pedro_mafra/
+[gmail]: pmafrarm@gmail.com
 [driven]: https://www.driven.com.br/?utm_source=search&utm_medium=google-ads&utm_campaign=branding&gclid=Cj0KCQiAys2MBhDOARIsAFf1D1cPfZuoGYPXcBUJmGZxSPCAl0gcedb9Ejd6_Kk37emmVASLlpc_xEUaAqsIEALw_wcB
