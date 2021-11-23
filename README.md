@@ -3,7 +3,7 @@
 ### I'm a Lifelong Learner and Programmer - that’s the main thing you need to know
 
 <p align="left"> :arrow_right: You can find my projects here (portfolio in production!) :smile: </p>
-<p align="left"> :arrow_right: I’m currently learning typescript :open_book: </p>
+<p align="left"> :arrow_right: I’m currently learning back-end architectures :open_book: </p>
 <p align="left"> :arrow_right: Ask me about ... Anything 💬 </p>
 <p align="left"> :arrow_right: Pronouns: He/His :shark: </p>
 <p align="left"> :arrow_right: I’m currently looking for my first job. 🔭  </p>
