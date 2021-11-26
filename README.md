@@ -50,5 +50,5 @@
 
 [gmail]: pmafrarm@gmail.com
 [linkedin]: https://www.linkedin.com/in/pedro-mafra-de-rezende-marques-01371920a/
-[instagram]: https://www.instagram.com/pedro_mafra/
+[instagram]: https://www.instagram.com/pedro_mafra_/
 [driven]: https://www.driven.com.br/?utm_source=search&utm_medium=google-ads&utm_campaign=branding&gclid=Cj0KCQiAys2MBhDOARIsAFf1D1cPfZuoGYPXcBUJmGZxSPCAl0gcedb9Ejd6_Kk37emmVASLlpc_xEUaAqsIEALw_wcB
