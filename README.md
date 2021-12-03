@@ -1,5 +1,5 @@
 # Hello :earth_americas:
-## My name is Pedro and i'm a fullstack developer based in Rio de Janeiro. I'm currently a student at Driven's programming bootcamp :point_right: [<img align=center src="https://img.shields.io/badge/-DRIVEN-%23DA5386?style=for-the-badge" alt="Driven" />][driven] :point_left:
+## I'm a fullstack developer based in Rio de Janeiro. I'm currently a student at Driven's programming bootcamp :point_right: [<img align=center src="https://img.shields.io/badge/-DRIVEN-%23DA5386?style=for-the-badge" alt="Driven" />][driven] :point_left:
 ### I'm a Lifelong Learner and Programmer - that’s the main thing you need to know
 
 <!--- <p align="left"> :arrow_right: You can find my projects here (portfolio in production!) :smile: </p> --->
