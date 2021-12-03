@@ -6,7 +6,7 @@
 <p align="left"> :arrow_right: I’m currently learning back-end architectures :open_book: </p>
 <p align="left"> :arrow_right: Looking for my first job. 🔭  </p>
 <p align="left"> :arrow_right: Attending Driven's programming bootcamp :point_right: <a href="https://www.driven.com.br/">Driven Education</a></p>
-<p align="left"> :arrow_right: Education: finishing mechanical engineering at UFF :shield: </p>
+<p align="left"> :arrow_right: Finishing mechanical engineering at UFF :shield: </p>
 <p align="left"> :arrow_right: Pronouns: He/His :shark: </p>
 <p align="left"> :arrow_right: Love: working out, dogs, coding :blue_heart: </p>
 
