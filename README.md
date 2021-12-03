@@ -1,5 +1,5 @@
 # Hello :earth_americas:
-## My name is Pedro and 'm a fullstack developer based in Rio de Janeiro
+## My name is Pedro and I'm a fullstack developer based in Rio de Janeiro
 ### I'm a Lifelong Learner and Programmer - that’s the main thing you need to know
 
 <!--- <p align="left"> :arrow_right: You can find my projects here (portfolio in production!) :smile: </p> --->
