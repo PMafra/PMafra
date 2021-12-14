@@ -21,11 +21,12 @@
 <img src="https://img.shields.io/badge/-nodejs-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-express-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-typescript-000000?style=for-the-badge" />
+</p>
+<p>
 <img src="https://img.shields.io/badge/-postgresql-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-typeorm-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-jest-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-cypress-000000?style=for-the-badge" />
-
 </p>
 <p>
 <img src="https://img.shields.io/badge/-git-000000?style=for-the-badge" />
