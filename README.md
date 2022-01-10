@@ -3,7 +3,7 @@
 ### I'm a Lifelong Learner and Programmer - that’s the main thing you need to know
 
 <!--- <p align="left"> :arrow_right: You can find my projects here (portfolio in production!) :smile: </p> --->
-<p align="left"> :arrow_right: Object-oriented programming :open_book: </p>
+<p align="left"> :arrow_right: Currently learning object-oriented programming :open_book: </p>
 <p align="left"> :arrow_right: Looking for my first job. 🔭  </p>
 <p align="left"> :arrow_right: Attending Driven's programming bootcamp :point_right: <a href="https://www.driven.com.br/">Driven Education</a></p>
 <p align="left"> :arrow_right: Finishing mechanical engineering at UFF :shield: </p>
