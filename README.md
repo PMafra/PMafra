@@ -38,7 +38,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <a href="mailto:pmafrarm@gmail.com"><img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" /></a>
-> pmafra@id.uff.br
+> pmafrarm@gmail.com
 
 ---
 
