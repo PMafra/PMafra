@@ -12,11 +12,11 @@
 
 ### <p align="left">Technologies and tools</p>
 <p>
-<img src="https://img.shields.io/badge/-html5-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-css3-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-javascript-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-react-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Styled_components-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-html5-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-css3-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-javascript-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-react-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Styled_components-blue?style=for-the-badge" />
 </p>
 <p>
 <img src="https://img.shields.io/badge/-nodejs-000000?style=for-the-badge" />
