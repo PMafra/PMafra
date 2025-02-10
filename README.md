@@ -5,9 +5,6 @@
 <!--- <p align="left"> :arrow_right: You can find my projects here (portfolio in production!) :smile: </p> --->
 Hi, I'm Pedro Mafra, a self-taught fullstack web developer from Brazil.
 
-- I’m currently working at  [Loggi](https://www.linkedin.com/company/loggi/) as a Mid-Level Software Engineer with a focus on back-end development.
-- 💬 Ask me about anything [here](https://github.com/PMafra/PMafra/issues/new)
-
 **Main Languages and Tools:**
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
